@@ -1,0 +1,4 @@
+repository "Card Game@moonlit12@cloud.cn"
+  path "/"
+    smartbranch "/main/皓月工作区/大改流程"                   
+     
